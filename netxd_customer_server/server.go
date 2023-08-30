@@ -2,6 +2,7 @@ package main
 
 import (
 	"context"
+	
 	config "module/netxd_config"
 	constants "module/netxd_constants"
 	netxdcustomercontroller "module/netxd_customer_controller/netxd_customer_controller"
@@ -17,8 +18,8 @@ import (
 )
 
 func initDatabase(client *mongo.Client) {
-	customerCollection := config.GetCollection(client, "bankdb", "profiles")
-	netxdcustomercontroller.CustomerService = netxddalservice.InitialiseCustomerService(customerCollection, context.Background())
+	customerCollection := config.GetCollection(client, "bankgrpc", "profiles")
+	netxdcustomercontroller.CustomerService = netxddalservice.InitCustomerService(customerCollection, context.Background())
 }
 
 func main() {
