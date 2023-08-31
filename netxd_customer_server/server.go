@@ -3,15 +3,15 @@ package main
 import (
 	"context"
 	
-	config "module/netxd_config"
-	constants "module/netxd_constants"
-	netxdcustomercontroller "module/netxd_customer_controller/netxd_customer_controller"
-	netxddalservice "module/netxd_dal/netxd_dal_service"
+	config "github.com/Menaha-Chandrasekar/netxd_config"
+	constants "github.com/Menaha-Chandrasekar/netxd_constants"
+	netxdcustomercontroller "github.com/Menaha-Chandrasekar/netxd_customer_controller/netxd_customer_controller"
+	netxddalservice "github.com/Menaha-Chandrasekar/netxd_dal/netxd_dal_service"
 	"net"
 
 	"fmt"
 
-	pro "module/netxd_customer/customer_proto" // Import the generated Go code
+	pro "github.com/Menaha-Chandrasekar/netxd_customer/customer_proto" // Import the generated Go code
 
 	"go.mongodb.org/mongo-driver/mongo"
 	"google.golang.org/grpc"

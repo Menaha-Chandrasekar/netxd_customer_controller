@@ -2,9 +2,9 @@ package netxdcustomercontroller
 
 import (
 	"context"
-	netxddalinterface "module/netxd_dal/netxd_dal_interface"
-	netxddalmodels "module/netxd_dal/netxd_dal_models"
-	pro "module/netxd_customer/customer_proto"
+	netxddalinterface "github.com/Menaha-Chandrasekar/netxd_dal/netxd_dal_interface"
+	netxddalmodels "github.com/Menaha-Chandrasekar/netxd_dal/netxd_dal_models"
+	pro "github.com/Menaha-Chandrasekar/netxd_customer/customer_proto"
 
 )
 
