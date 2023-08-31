@@ -1,11 +1,11 @@
-github.com/Menaha-Chandrasekar/netxd_config v0.0.0-20230831050607-7914e2d23de1 h1:M9P/Cvn17zbu34xwYurzHJjAWiEPCxlzcRK52wCjppU=
-github.com/Menaha-Chandrasekar/netxd_config v0.0.0-20230831050607-7914e2d23de1/go.mod h1:UCVAFvBWP6tezuwmAXl5boiTW98C6j8FxqdWjEh2Jjc=
+github.com/Menaha-Chandrasekar/netxd_config v1.0.1 h1:GQn7Yn3Pait2zIZNYv/cpiY/LbPp6Zrf0azXuqr09OM=
+github.com/Menaha-Chandrasekar/netxd_config v1.0.1/go.mod h1:8DLtFCyBOh03nwgRF64M2yUDYMerNMPt91xvBuigJ0I=
 github.com/Menaha-Chandrasekar/netxd_constants v0.0.0-20230831051308-8452da1da808 h1:1ZEVyloDKdHzF5eUtxlKkjR3Po2v0seYxwzNeG4klJI=
 github.com/Menaha-Chandrasekar/netxd_constants v0.0.0-20230831051308-8452da1da808/go.mod h1:pN2rjztGWg2Z9bVMX4NlQDpUqbeLBqggiWbZm1V2Itc=
 github.com/Menaha-Chandrasekar/netxd_customer v0.0.0-20230829123419-0dd29f23e0ff h1:n5BQ42qaZWbGgWVlW0n6M1kMJxBKXUCXXqfcMUK+VKQ=
 github.com/Menaha-Chandrasekar/netxd_customer v0.0.0-20230829123419-0dd29f23e0ff/go.mod h1:7Z/xDopNsVmyHvSNXitp2r5RJnehxORNMfKxY3XPwN8=
-github.com/Menaha-Chandrasekar/netxd_dal v0.0.0-20230830121919-11e5318327aa h1:wMObkGtqgjJg0b+GYYdk61z9iwKC4blVTrTk8pABS/I=
-github.com/Menaha-Chandrasekar/netxd_dal v0.0.0-20230830121919-11e5318327aa/go.mod h1:IYmOq6RRqlY5WJ/TFIkdBpYTJTdRVHnjIICOEigupKg=
+github.com/Menaha-Chandrasekar/netxd_dal v1.0.1 h1:jY8eUbg77zOsZmYlBM1NOOSTT8P1y0IMXLTwEO8Naxc=
+github.com/Menaha-Chandrasekar/netxd_dal v1.0.1/go.mod h1:2NVE61OTbSqv/js5BOEhYaZzOeesvYdwszWgLMsP1/Y=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/golang/protobuf v1.5.0/go.mod h1:FsONVRAS9T7sI+LIUmWTfcYkHO4aIWwzhcaSAoJOfIk=

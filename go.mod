@@ -3,10 +3,10 @@ module github.com/Menaha-Chandrasekar/netxd_customer_controller
 go 1.20
 
 require (
-	github.com/Menaha-Chandrasekar/netxd_config v0.0.0-20230831050607-7914e2d23de1
+	github.com/Menaha-Chandrasekar/netxd_config v1.0.1
 	github.com/Menaha-Chandrasekar/netxd_constants v0.0.0-20230831051308-8452da1da808
 	github.com/Menaha-Chandrasekar/netxd_customer v0.0.0-20230829123419-0dd29f23e0ff
-	github.com/Menaha-Chandrasekar/netxd_dal v0.0.0-20230830121919-11e5318327aa
+	github.com/Menaha-Chandrasekar/netxd_dal v1.0.1
 	go.mongodb.org/mongo-driver v1.12.1
 	google.golang.org/grpc v1.57.0
 )
